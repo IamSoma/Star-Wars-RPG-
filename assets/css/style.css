@@ -1,0 +1,28 @@
+body {
+	background: url(http://cdn.wallpapersafari.com/89/25/QBIXUo.jpg);
+}
+
+.auth-image {
+	width: 150px;
+	height: 150px;
+	float: left;
+/*	margin-right: 25px;*/
+}
+
+/*.main-section {
+	background: #fff;
+	padding: 30px;
+	margin: 0 0 40px 0;
+	width: 100%;
+	max-width: 650px;
+	float: left;
+	border: 1px solid #ddd;
+}
+*/
+#main-container {
+	padding-top: 130px;
+}
+
+p {
+	height: auto;
+}
